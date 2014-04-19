@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Check the FS usage and send an email when one of the tresholds is reached 
 # 
-# v0.001
+# v0.002
 
 #from __future__ import division
 #TODO: Don't use shell=True, change it
